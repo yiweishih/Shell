@@ -4,6 +4,7 @@
 #       Detective FTP server folder has whether new file  and inform user
 # History:
 # 2016/05/05    Yiwei Shih      First release
+# 2016/05/09	Yiwei Shih		Second release
 
 
 path="/home/sparq02/"
